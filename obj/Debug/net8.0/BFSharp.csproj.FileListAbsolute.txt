@@ -1,0 +1,14 @@
+C:\Users\Aleksandar Milovic\RiderProjects\BFSharp\bin\Debug\net8.0\BFSharp.exe
+C:\Users\Aleksandar Milovic\RiderProjects\BFSharp\bin\Debug\net8.0\BFSharp.deps.json
+C:\Users\Aleksandar Milovic\RiderProjects\BFSharp\bin\Debug\net8.0\BFSharp.runtimeconfig.json
+C:\Users\Aleksandar Milovic\RiderProjects\BFSharp\bin\Debug\net8.0\BFSharp.dll
+C:\Users\Aleksandar Milovic\RiderProjects\BFSharp\bin\Debug\net8.0\BFSharp.pdb
+C:\Users\Aleksandar Milovic\RiderProjects\BFSharp\obj\Debug\net8.0\BFSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aleksandar Milovic\RiderProjects\BFSharp\obj\Debug\net8.0\BFSharp.AssemblyInfoInputs.cache
+C:\Users\Aleksandar Milovic\RiderProjects\BFSharp\obj\Debug\net8.0\BFSharp.AssemblyInfo.cs
+C:\Users\Aleksandar Milovic\RiderProjects\BFSharp\obj\Debug\net8.0\BFSharp.csproj.CoreCompileInputs.cache
+C:\Users\Aleksandar Milovic\RiderProjects\BFSharp\obj\Debug\net8.0\BFSharp.dll
+C:\Users\Aleksandar Milovic\RiderProjects\BFSharp\obj\Debug\net8.0\refint\BFSharp.dll
+C:\Users\Aleksandar Milovic\RiderProjects\BFSharp\obj\Debug\net8.0\BFSharp.pdb
+C:\Users\Aleksandar Milovic\RiderProjects\BFSharp\obj\Debug\net8.0\BFSharp.genruntimeconfig.cache
+C:\Users\Aleksandar Milovic\RiderProjects\BFSharp\obj\Debug\net8.0\ref\BFSharp.dll
